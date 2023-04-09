@@ -913,4 +913,4 @@ body {
 
 .webp .main{ background: url(../img/main-background.webp) center/cover no-repeat; }
 
-.webp .freedom{ background: url(../img/academy.webp) 0 0/cover no-repeat; }
+.webp .freedom{ background: url(../img/academy.webp) center/cover no-repeat; }
